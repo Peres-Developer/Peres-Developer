@@ -1,6 +1,6 @@
 ## Hello World! Eu sou o Kauã Peres 👋
 
-- 👨🏼‍💻 Atualmente sou Estudande de Eng. de Software
+- 👨🏼‍💻 Atualmente sou Estudante de Engenharia de Software
 - 💭 Tenho conhecimentos nas linguagens: HTML, CSS e JS
 - 📘 Estudando: node.js
 
